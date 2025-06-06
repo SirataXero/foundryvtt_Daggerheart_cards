@@ -21,3 +21,11 @@ cd ..
 cd Tarokka
 zip -ur ../FoundryVTTCards.zip images
 cd ..
+cd Daggerheart
+zip -ur ../FoundryVTTCards.zip Ancestry
+zip -ur ../FoundryVTTCards.zip Community
+zip -ur ../FoundryVTTCards.zip Subclass
+cd Domain
+zip -ur ../FoundryVTTCards.zip Domain_Level_1
+zip -ur ../FoundryVTTCards.zip Domain_Level_2
+zip -ur ../FoundryVTTCards.zip Domain_Level_3
