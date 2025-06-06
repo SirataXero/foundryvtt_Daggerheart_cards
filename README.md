@@ -6,8 +6,9 @@
 - Tarot Card Deck
 - Dragon Age Deck
 - Tarokka Deck
+- Daggerheart Cards
 
-## To Install in your Foundry v9 instance
+## To Install in your Foundry instance
 
 - Go to the **Setup** area of Foundry VTT.
 - Click on the **Add-on Modules** tab.
