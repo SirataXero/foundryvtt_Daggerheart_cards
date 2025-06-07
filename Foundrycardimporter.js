@@ -30,10 +30,10 @@ async function importDeck(imagespath, deckname, backimage, nameback) {
     ui.notifications.info("Deck import completed!");
 }
 //edit these paths on line 33-36
- //const imagespath = "CARD_DECKS/Mythic_Deck_Individual_Card_Images/Mythic Deck, Individual Card Images/Mythic Refrence Deck"; // images directory relative to Data, put all images in a directory, do not put non-images files here
-// const deckname = "Mythic Reference Cards"; // the name of the deck you have created previously to store cards
- //const backimage = "CARD_DECKS/Mythic_Deck_Individual_Card_Images/Mythic Deck-Individual Card Images/Mythic Refrence Deck/MythicDeck1.png"; // back image of the deck
- //const nameback = "Back decks image"; // a generic name for back images
+// const imagespath = "cards/Daggerheart/Ancestry"; // images directory relative to Data, put all images in a directory, do not put non-images files here
+// const deckname = "Ancestry"; // the name of the deck you have created previously to store cards
+// const backimage = "cards/Daggerheart/dhcardback.webp"; // back image of the deck
+// const nameback = "Back decks image"; // a generic name for back images
 new Dialog({
     title: `Import new deck from images`,
     content: `
